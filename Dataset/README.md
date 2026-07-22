@@ -1,31 +1,60 @@
-## Dataset
+## Dataset Description
 
-This project uses a dataset of professional football players aged 23 and below as a case study to examine valuation patterns within the football transfer market.
+The dataset was constructed to analyze the relationship between player performance and market valuation within the U-23 football transfer market.
 
-The U-23 player group was selected because young players represent one of the most dynamic segments of the market. Their valuations are often influenced by a combination of current performance, future potential, reputation, and club profile, making them suitable for analysing possible market inefficiencies.
+The study focuses on league performance data from the 2025/26 season across Europe's five major leagues:
 
-The dataset contains players from major European football leagues and includes information across three playing positions:
+- English Premier League (EPL)
+- La Liga
+- Bundesliga
+- Serie A
+- Ligue 1
+
+Only league-level performance data was considered in this analysis. Cup competitions, international matches, and other non-league competitions were excluded.
+
+The dataset consists of U-23 players across three positional groups:
 
 - Defenders
 - Midfielders
 - Forwards
 
-For each player, the dataset combines market valuation information with performance and contextual variables, including:
+Players were evaluated using position-specific performance metrics, market value information, and player profile characteristics.
 
-### Player Characteristics
-- Age
+The dataset includes variables related to:
+
+### Player Profile
+- Player age
+- Club
 - Position
-- Club affiliation
-- Big club status
+- Market value
+- Club reputation indicator
 
-### Performance Indicators
-- Position-specific statistical metrics
-- Per-90 performance measurements
-- Attacking and defensive contribution indicators
+### Playing Time
+- League minutes
+- Normalized playing time (90-minute equivalent)
 
-### Market Information
-- Current estimated market value
+### Performance Metrics
 
-Players with limited playing time were filtered out to reduce the impact of unreliable performance samples. Only players with sufficient minutes played were included in the modelling process.
+Metrics were selected based on positional responsibilities:
 
-The final dataset was analysed separately by position because football players are evaluated differently depending on their tactical roles and responsibilities.
+**Defenders**
+- Defensive actions
+- Tackles won
+- Recoveries
+- Dispossessions
+
+**Midfielders**
+- Ball recoveries
+- Interceptions
+- Chance creation
+- Expected assists
+
+**Forwards**
+- Expected goals
+- Shots on target
+- Dribbling output
+- Expected assists
+
+To ensure that the analysis focused on players with meaningful league contributions, the valuation models were trained using players with at least 10 normalized league appearances (90-minute equivalent).
+
+Players below this threshold were analyzed separately to explore the relationship between limited league playing time and market valuation.
