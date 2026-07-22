@@ -1,0 +1,100 @@
+def_player,def_club,def_age,def_comp,def_time_norm,def_value_eur,def_contract_years_left,def_big_club,def_int_per90,def_recov_per90,def_dis_per90,def_tkl_won_per90
+Noahkai Banks,augsburg,19,Bundesliga,19.2,20000000,3,0,0.78,2.97,0.31,2.19
+Joane Gadou,borussia dortmund,19,Bundesliga,17.49,20000000,5,1,1.54,4.97,0.11,2.12
+Luca Reggiani,borussia dortmund,18,Bundesliga,5.7,10000000,4,1,0.35,3.16,0.35,2.46
+El Chadaille Bitshiabu,rb leipzig,21,Bundesliga,7.23,18000000,3,1,0.96,3.85,0.14,1.1
+Finn Jeltsch,vfb stuggart,19,Bundesliga,16.7,35000000,4,0,1.14,4.78,0.3,1.43
+Jeanuel Belocian,vfl wolfsburg,21,Bundesliga,17.14,12000000,3,0,0.93,3.44,0.41,2.04
+Bruno Ogbus,sc freiburg,20,Bundesliga,13.05,15000000,4,0,0.84,3.75,0.77,1.76
+Kacper Potulski,mainz 05,18,Bundesliga,11.78,18000000,2,0,1.53,3.23,0.17,1.27
+Tom Rothe,union berlin,21,Bundesliga,11.37,10000000,3,0,1.67,3.96,1.14,1.76
+Fabio Chiarodia,borussia mönchengladbach,21,Bundesliga,7.47,3000000,2,0,1.6,4.41,0.13,2.01
+Karim Coulibaly,werder bremen,19,Bundesliga,23.58,28000000,3,0,0.98,2.8,0.08,1.15
+Sael Kumbedi,vfl wolfsburg,21,Bundesliga,20.05,12000000,3,0,0.8,3.29,0.7,2.24
+Jan Ziolkowski,as roma,21,Serie A,5.64,12000000,4,1,1.42,4.07,0.35,3.37
+Jacobo Ramon,como,21,Serie A,30.48,30000000,4,0,1.21,3.81,0.3,1.64
+Davide Bartesaghi,ac milan,20,Serie A,27.13,22000000,4,1,0.44,2.62,0.85,1.81
+Honest Ahanor,atlanta,18,Serie A,15.27,30000000,2,0,1.51,3.08,0.33,2.36
+Sascha Britschgi,parma,19,Serie A,23.28,10000000,4,0,0.34,3.31,0.82,1.42
+Juan Rodríguez,cagliari,21,Serie A,14.61,10000000,4,0,1.23,2.81,0.14,2.53
+Pietro Comuzzo,acf fiorentina,21,Serie A,18.83,18000000,3,0,1.27,3.29,0.11,1.7
+Viery,acf fiorentina,21,Serie A,12.99,6000000,5,0,0.62,3.77,0.23,2.39
+Niccolo Fortini,acf fiorentina,20,Serie A,5.89,10000000,1,0,0.68,5.94,0.85,3.74
+Tiago Gabriel,lecce,21,Serie A,35.78,15000000,1,0,1.26,2.4,0.25,1.76
+Ismaelo Ganiou,lens,21,ligue 1,22.38,20000000,2,0,1.3,5.23,0.36,1.74
+Nidal Celik,lens,19,ligue 1,6.87,7000000,3,0,1.31,3.35,0.15,2.91
+Jeremy Jacquet,liverpool,21,epl,18.59,55000000,5,1,1.02,4.14,0.05,1.45
+Abdelhamid Ait Boudlal,stade rennais,20,ligue 1,15.58,12000000,2,0,1.22,3.98,0.26,1.41
+Mahamadou Nagida,stade rennais,21,ligue 1,8.87,7000000,3,0,2.03,6.09,1.13,2.26
+Christian Mawissa,as monaco,21,ligue 1,13.23,15000000,3,1,1.36,6.05,1.21,2.27
+Mamadou Sarr,chelsea,20,epl,14.5,22000000,7,1,0.62,4.97,0.28,1.03
+Aaron Anselmino,chelsea,21,epl,4.09,10000000,5,1,1.22,5.63,0.05,2.2
+Abdoul Ouattara,strasbourg,20,ligue 1,19.61,15000000,3,0,1.07,5.41,0.46,1.17
+Jaydee Canvot,crystal palace,19,epl,14.82,28000000,3,0,0.81,3.64,0.34,2.63
+Dayann Methalie,toulouse,20,ligue 1,21.16,18000000,4,0,1.18,4.07,1.65,2.6
+Nhoa Sangui,paris fc,20,ligue 1,19.26,10000000,4,0,0.88,4.41,0.52,1.35
+Emmanuel Biumla,angers,21,ligue 1,4.25,2500000,2,0,0.7,4.23,0.23,1.64
+Stephan Zagadou,angers,17,ligue 1,5.52,4000000,4,0,0.36,1.45,0.18,1.99
+Enzo Koffi,le havre,20,ligue 1,4.22,1800000,4,0,2.13,5.92,2.13,3.55
+Pau Cubarsi,barcelona,19,laliga,30.09,80000000,3,1,0.71,3.43,0.05,0.86
+Dean Huijsen,real madrid,21,laliga,22.63,60000000,4,1,0.84,3.27,0.09,1.37
+Pau Navarro,villareal,21,laliga,21.38,15000000,4,1,0.84,2.76,0.14,3.04
+Jon Martín,real sociedad,20,laliga,25,25000000,5,0,1.36,3.28,0.32,1.24
+Hector Fort,barcelona,19,laliga,5.36,12000000,3,1,1.12,3.55,1.49,2.24
+Alan Matturro,genoa,21,Serie A,10.46,4000000,2,0,0.57,5.26,0.29,2.01
+Myles Lewis-Skelly,arsenal,19,epl,7.76,45000000,4,1,0.64,3.87,0.9,1.03
+Nico O'Reilly,manchester city,21,epl,29.42,70000000,4,1,0.68,3.7,1.16,2.31
+Leny Yoro,manchester united,20,epl,19.32,50000000,3,1,1.6,3.78,0.26,1.6
+Ayden Heaven,manchester united,19,epl,10.25,30000000,3,1,0.1,3.9,0.1,2.15
+Veljko Milosavljevic,afc bournemouth,19,epl,4.07,20000000,4,0,0.98,3.19,0.25,1.23
+Michael Kayode,brentford,21,epl,36.27,40000000,6,0,1.05,4.49,0.85,1.85
+Mamadou Sarr,chelsea,20,epl,14.5,22000000,7,1,0.62,4.97,0.28,1.03
+Josh Acheampong,chelsea,20,epl,7.37,25000000,3,1,1.49,3.53,1.09,1.49
+Lewis Hall,newcastle,21,epl,24.21,40000000,3,0,1.16,5.53,1.57,2.23
+Jaydee Canvot,crystal palace,19,epl,14.82,25000000,3,0,0.81,3.64,0.34,2.63
+El Hadji Malick Diouf,westham,21,epl,30.12,21000000,4,0,1.1,4.18,0.63,1.46
+Zachary Athekame,ac milan,21,Serie A,9.16,15000000,4,1,0.86,4.29,0.43,2.14
+Jair Cunha,nottingham,21,epl,5.73,15000000,4,0,0.87,2.27,0.17,1.57
+Castello Lukeba,rb leipzig,23,Bundesliga,24.14,50000000,3,1,1.24,5.24,0.12,1.28
+Luca Jaquez,vfb stuggart,23,Bundesliga,10,10000000,3,0,1,4.5,0.1,0.8
+ Albian Hajdari,hoffenheim,23,Bundesliga,27.11,25000000,5,0,1.55,3.87,0.26,2.14
+Jarell Quansah,bayer leverkusen,23,Bundesliga,25.58,45000000,4,1,1.06,3.83,0.43,1.09
+Arthur,bayer leverkusen,23,Bundesliga,12.58,8000000,5,1,1.35,4.69,1.03,1.59
+ Nnamdi Collins,frankfurt,20,Bundesliga,16.63,20000000,4,0,1.5,3.19,0.3,2.95
+Nathaniel Brown,bayern munich,23,Bundesliga,29.52,40000000,5,1,0.88,4,0.81,2.74
+Leopold Querfeld,union berlin,22,Bundesliga,30.04,20000000,4,0,1.2,2.86,0.3,1.73
+Wesley,as roma,22,Serie A,27.3,40000000,4,1,0.84,4.29,0.92,1.94
+Alex Valle,como,22,Serie A,22.5,12000000,3,0,1.02,2.67,0.31,2.27
+Giorgio Scalvini,atlanta,22,Serie A,20.19,32000000,2,0,2.13,4.95,0.3,2.33
+Martin Vitik,bologna,23,Serie A,14.71,13000000,3,0,0.68,2.18,0.27,2.45
+ Oliver Provstgaard,lazio,23,Serie A,16.97,16000000,3,0,0.88,3.36,0.29,0.71
+Tarik Muharemovi,leeds,23,epl,31.5,25000000,5,0,1.43,2.89,0.06,1.4
+Alessandro Circati,parma,22,Serie A,29.62,12000000,3,0,0.81,3,0.17,1.45
+ Mariano Troilo,parma,23,Serie A,18.09,10000000,4,0,1,3.48,0.17,1.55
+ Ilya Zabarnyi,psg,23,ligue 1,26.52,40000000,4,1,0.75,4.49,0.08,1.21
+Lucas Beraldo,psg,22,ligue 1,17.44,22000000,2,1,1.2,4.82,0.29,1.78
+Samson Baidoo,rc lens,22,ligue 1,20.3,25000000,4,0,1.13,5.17,0.05,1.67
+Nathan Ngoy,lille,23,ligue 1,26.71,25000000,3,0,1.35,4.34,0.07,1.24
+Ismael Doukoure,strasbourg,22,ligue 1,23.06,20000000,2,0,1,4.25,0.35,0.87
+Guela Doue,strasbourg,23,ligue 1,22.92,20000000,3,0,1.18,4.32,1.05,2.18
+ Charlie Cresswell,toulouse,23,ligue 1,28.14,25000000,2,0,0.99,2.63,0.28,0.92
+Arsene Kouassi,lorient,22,ligue 1,29.02,15000000,3,0,0.9,4.03,0.59,0.9
+ Alejandro Balde,barcelona,22,laliga,20.82,50000000,2,1,0.24,4.42,0.91,1.68
+Raul Asencio,real madrid,23,laliga,18.96,20000000,5,1,0.53,2.74,0.16,0.9
+Alvaro Carreras,real madrid,23,laliga,25.93,50000000,5,1,1.5,5.98,0.81,1.58
+Renato Veiga,villareal,22,laliga,27.53,25000000,6,0,0.84,3.16,0.07,0.69
+ Marc Pubill,atletico madrid,23,laliga,15.36,35000000,4,1,1.3,3.91,0.03,1.63
+Valentin Gomez,villareal,23,laliga,20.83,12000000,4,0,1.15,3.55,0.34,2.21
+Javi Rodríguez,celta vigo,23,laliga,28.46,18000000,2,0,0.91,2.5,0.35,1.34
+Jon Aramburu,real sociedad,23,laliga,30.87,15000000,4,0,1.52,3.89,0.52,3.4
+Omar El Hilali,espanyol,22,laliga,31.42,15000000,1,0,1.27,3.06,0.16,2.32
+Cristhian Mosquera,arsenal,22,epl,10.99,40000000,4,1,0.73,3.09,0.73,2.91
+Abdukodir Khusanov,manchester city,22,epl,15.88,50000000,3,1,2.08,4.72,0.13,1.7
+Harvey Elliott,liverpool,23,epl,1.89,20000000,1,1,0.6,0.5,0.5,0.5
+Milos Kerkez,liverpool,22,epl,25.11,35000000,4,1,0.56,3.5,0.28,1.68
+Conor Bradley,liverpool,23,epl,10.36,25000000,3,1,1.26,4.15,1.06,1.83
+Levi Colwill,chelsea,23,epl,0.25,50000000,3,1,0.25,0.25,0.25,0.25
+Malo Gusto,chelsea,23,epl,25.19,35000000,4,1,1.23,4.84,0.64,2.1
+ Tino Livramento,newcastle,23,epl,14.76,45000000,2,0,0.41,5.49,0.61,1.49
+Murillo,nottingham,23,epl,23.7,50000000,4,0,1.43,4.3,0.38,1.48
+Destiny Udogie,tottenham,23,epl,14.89,30000000,4,1,0.47,4.7,0.81,2.08
