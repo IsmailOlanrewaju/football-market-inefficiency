@@ -31,6 +31,4 @@ The analysis focuses on U-23 players because this market segment is heavily infl
 
 ## Limitations
 
-## Future Improvements
-
 ## Tools Used
