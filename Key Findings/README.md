@@ -173,8 +173,6 @@ Across **210 U-23 players included in the final modelling dataset:**
 | Model valuation above market value | 93 |
 | Market value above model valuation | 117 |
 
-This shows that football market prices frequently extend beyond measurable performance.
-
 ---
 
 # 5. Understanding Large Market Differences
@@ -189,13 +187,6 @@ The confidence interval analysis highlighted players where market values were si
 | 95% Confidence Interval | €23.3M - €46.4M |
 
 ---
-
-The model suggests that based only on:
-
-- Defensive output
-- Age
-- Club effect
-- Selected statistical metrics
 
 Cubarsí's current measurable contribution aligns closer to the €30M-€40M range.
 
@@ -225,8 +216,6 @@ Several elite midfielders demonstrated large differences between statistical est
 | João Neves | €140M | €42M |
 | Pedri | €150M | €60M |
 | Jude Bellingham | €130M | €48M |
-
-These cases demonstrate that elite football valuations incorporate more than current performance.
 
 ---
 
